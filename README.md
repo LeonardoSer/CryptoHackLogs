@@ -1,7 +1,8 @@
+READ_THIS: The content of the repo is actually pretty outdated, But I recently restarded the challenges and my next write ups will be found here on [Notion](https://assorted-estimate-5f8.notion.site/Cryptohack-80f50891138245cbb72c6ec9160a1a27?pvs=4).
+
 # CryptoHackLogs
 
-Welcome to CryptoHackLogs, a comprehensive repository where I share my journey, notes, and writeups on tackling the cryptographic challenges over at [CryptoHack](https://cryptohack.org/).
-The content of the repo is actually pretty outdated, But I recently restarded the challenges and my next write ups will be found here on [Notion](https://assorted-estimate-5f8.notion.site/Cryptohack-80f50891138245cbb72c6ec9160a1a27?pvs=4).
+Welcome to CryptoHackLogs, a comprehensive repository where I share my notes, and writeups on tackling the cryptographic challenges over at [CryptoHack](https://cryptohack.org/).
 
 ## About the CryptoHack challenges
 
